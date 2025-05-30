@@ -10,16 +10,6 @@ I'm a seasoned frontend engineer with over a decade of hands-on experience craft
 
 ---
 
-### 🛠 Tech Stack
-
-- **Frontend:** React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3, SCSS
-- **State Management:** Redux, Zustand, React Query, Context API
-- **Styling:** Tailwind CSS, Styled Components, Emotion, Material UI
-- **Tooling:** Webpack, Vite, Babel, ESLint, Prettier
-- **Testing:** Jest, React Testing Library, Cypress
-- **Version Control:** Git, GitHub, GitLab
-- **Others:** REST APIs, GraphQL, SSR/SSG, CI/CD, Agile/Scrum
-
 ## 🛠️ Tech Stack
 
 ### 🔹 Languages
@@ -48,13 +38,13 @@ I'm a seasoned frontend engineer with over a decade of hands-on experience craft
 ---
 
 ### 🚀 What I’m Working On
-- Mentoring junior developers and freshers to get them boarded.
+- Mentoring junior developers, and freshers to get them boarded.
 
 ---
 
 ### 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/infoofajit)
+- [LinkedIn](https://linkedin.com/in/infoofajit){:target="_blank" rel="noopener"}
 - [Email](mailto:infoofajit@gmail.com)
 
 ---
