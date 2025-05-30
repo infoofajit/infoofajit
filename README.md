@@ -1,13 +1,12 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Ajit Singh
 
-🎯 **Senior Frontend Developer**  
-💻 **10+ Years of Experience | React.js | Next.js Expert**
+Welcome to my GitHub! I'm a 🎯 **Senior Web Developer** with over 💻 **12+ years of experience** in building modern, scalable, and performance-driven web applications.
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-I'm a seasoned frontend engineer with over a decade of hands-on experience crafting scalable, user-centric web applications. My expertise lies in modern JavaScript frameworks, particularly **React.js** and **Next.js**, with a strong emphasis on performance, maintainability, and UI/UX excellence.
+I'm a seasoned frontend engineer with over a decade of hands-on experience crafting scalable, user-centric web applications. I'm passionate about turning ideas into functional, user-friendly applications using the latest web technologies. My expertise lies in modern JavaScript frameworks, particularly **React.js** and **Next.js**, with a strong emphasis on performance, maintainability, and UI/UX excellence. Whether it's integrating a complex payment gateway or architecting a scalable frontend, I strive to write **clean, maintainable, and efficient code** that meets the highest standards.
 
 ---
 
@@ -21,21 +20,42 @@ I'm a seasoned frontend engineer with over a decade of hands-on experience craft
 - **Version Control:** Git, GitHub, GitLab
 - **Others:** REST APIs, GraphQL, SSR/SSG, CI/CD, Agile/Scrum
 
+## 🛠️ Tech Stack
+
+### 🔹 Languages
+- **HTML5**, **CSS3**, **JavaScript**, **TypeScript**, **PHP**
+
+### 🔹 Frontend
+- **ReactJS**, **NextJS**, **Redux**
+- **Bootstrap**, **Material UI**, **Tailwind CSS**
+
+### 🔹 Backend
+- **Next.JS**, **Express.JS**, **PHP**
+
+### 🔹 Framework
+- **Laravel**, **CodeIgniter**, **WordPress**
+
+### 🔹 Database
+- **MySQL**
+
+### 🔹 Testing
+- **Jest**, **React Testing Library**
+
+
+### 🔹 Tools
+- **Git**, **WebRTC**, **Socket.io**, **JIRA**, **POSTMAN**, **GITHUB COPILOT**
+
 ---
 
 ### 🚀 What I’m Working On
-
-- Building high-performance, accessible, and SEO-friendly web applications with Next.js.
-- Exploring edge rendering and serverless technologies.
-- Mentoring junior devs and contributing to open-source projects.
+- Mentoring junior developers and freshers to get them boarded.
 
 ---
 
 ### 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Portfolio](https://yourportfolio.com)
-- [Email](mailto:youremail@example.com)
+- [LinkedIn](https://linkedin.com/in/infoofajit)
+- [Email](mailto:infoofajit@gmail.com)
 
 ---
 
