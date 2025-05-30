@@ -44,7 +44,7 @@ I'm a seasoned frontend engineer with over a decade of hands-on experience craft
 
 ### 📫 Get in Touch
 
-- [LinkedIn](https://linkedin.com/in/infoofajit){:target="_blank" rel="noopener"}
+- [LinkedIn](https://linkedin.com/in/infoofajit)
 - [Email](mailto:infoofajit@gmail.com)
 
 ---
