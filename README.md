@@ -20,13 +20,13 @@ I'm a seasoned frontend engineer with over a decade of hands-on experience craft
 - **Bootstrap**, **Material UI**, **Tailwind CSS**
 
 ### 🔹 Backend
-- **Next.JS**, **Express.JS**, **PHP**
+- **Node.js**, **Express.JS**, **Next.JS**, **PHP**
 
 ### 🔹 Framework
 - **Laravel**, **CodeIgniter**, **WordPress**
 
 ### 🔹 Database
-- **MySQL**
+- **NoSQL (MongoDB)**, **MySQL**
 
 ### 🔹 Testing
 - **Jest**, **React Testing Library**
