@@ -6,7 +6,14 @@ Welcome to my GitHub! I'm a 🎯 **Senior Web Developer** with over 💻 **12+ y
 
 ## 🚀 About Me
 
-I'm a seasoned frontend engineer with over a decade of hands-on experience crafting scalable, user-centric web applications. I'm passionate about turning ideas into functional, user-friendly applications using the latest web technologies. My expertise lies in modern JavaScript frameworks, particularly **React.js** and **Next.js**, with a strong emphasis on performance, maintainability, and UI/UX excellence. Whether it's integrating a complex payment gateway or architecting a scalable frontend, I strive to write **clean, maintainable, and efficient code** that meets the highest standards.
+I'm a Frontend Engineer at RSYSTEMS with a strong focus on building modern, performant, and user-friendly interfaces using React.js. I specialize in crafting clean UI experiences that not only look great but work seamlessly across devices and platforms.
+
+**While frontend development is my core strength**, I also bring hands-on experience working across the **MERN stack—building full-stack applications with Node.js, Express, and MongoDB** when needed. I enjoy creating **real-time features using WebRTC and Socket.io**, and I’ve successfully integrated **Azure AD SSO using MSAL.js** for secure authentication flows.
+
+I’m passionate about writing clean, maintainable code and delivering user-centric solutions that meet both business goals and technical excellence. I also actively contribute to code reviews, collaborate with cross-functional teams, and stay up to date with evolving frontend technologies.
+
+Tech Stack & Tools:
+**React.js, Next.js, JavaScript (ES6+), Redux, Node.js, Express.js, MongoDB, WebRTC, Socket.io, MSAL.js, HTML5, CSS3, Git, REST APIs**
 
 ---
 
